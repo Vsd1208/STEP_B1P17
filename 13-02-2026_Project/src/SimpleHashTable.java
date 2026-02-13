@@ -1,4 +1,3 @@
-import java.util.*;
 public class SimpleHashTable {
     static class Entry {
         String key;
